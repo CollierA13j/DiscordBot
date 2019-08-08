@@ -2,7 +2,7 @@
 This is a fun little personal project that does some redementary commands.
 Requires Discord.Net 
 # Commands
- > !ping
+ > !ping <
  Replies with "Pong!"
  > !say
  Echos whatever is put after the command (i.e. !say Hello World!)
