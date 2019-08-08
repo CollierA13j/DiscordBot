@@ -81,7 +81,7 @@ namespace DiscordBot
             {
                 // It's unadvisable to hardcode your token
                 await _client.LoginAsync(TokenType.Bot,
-                "NTgzNzI0NDA3MzQ0NzI2MDI2.XURccw.9UxDOkk9TTTsD8Tm8xw2Agqzy6k");
+                "INSERT BOT TOKEN HERE");
             }
             catch (Exception e)
             {
